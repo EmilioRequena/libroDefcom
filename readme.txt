@@ -1,6 +1,8 @@
 ﻿En el corazón del vosque bivían tres cerditos que eran hermanos.
 
-/*Otras 2 lineas eliminadas de la historia de Alvaro -Jose*/
+El pequeño la hizo de paja, para acabar antes y poder irse a jugar.
+
+El mediano construyó una casita de madera. Alvaro
 
 
 Esto es una historia de solo 5 lineas, pues las 5 lineas estoy escribiendo
