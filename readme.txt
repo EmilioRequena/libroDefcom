@@ -6,8 +6,7 @@
 Esto es una historia de solo 5 lineas, pues las 5 lineas estoy escribiendo
 y aqui va un salto de linea :OOO pero no pasa nada, seguire con la historia
 sin que los saltos de linea tengan mucha importancia, pues tengo que hacer
-la historia con cinco lineas, con las cosas que me salgan del rabo asi que
-asi sera mi super historia que ya esta acabada. Jorobate Flanders.
+/*Comprate una lineas nuevas -Jose*/
 By Flopi.
 
 /* 2 lineas eliminadas porque no me gustan los monos */
