@@ -23,4 +23,4 @@ Buscan hacerlo con Evolve, una de las propuestas más llamativas y fascinantes d
 Es un título focalizado en el multijugador, en ser original y en aportar una gran diversión ya sea encarnando a los cazadores o al monstruo.
 ¿Te apuntas a evolucionar?
 Y así le he hecho promocion a Evolve para poder llegar a las 5 lineas 
-													-Jose x Dani True love
+													-Jose
