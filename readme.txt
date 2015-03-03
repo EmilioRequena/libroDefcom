@@ -12,9 +12,7 @@ la historia con cinco lineas, con las cosas que me salgan del rabo asi que
 asi sera mi super historia que ya esta acabada. Jorobate Flanders.
 By Flopi.
 
-
-Esta es la historia de un mono araña al que le encantaba trepar por los
-arboles, subia y bajaba, bajaba y subia, y asi todo el dia. Un dia este mono,
+/* 2 lineas eliminadas porque no me gustan los monos */
 unico en su especie claramente, descubrio su parte aracnida y se puso a tirar
 telarañas por tos los laos, y claro, entre subir por las ramas, y las telarañas
 pos se lio... moraleja, no te lies mas que un mono araña, que es mucho liar.
