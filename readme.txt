@@ -2,12 +2,16 @@
 
 El pequeño la hizo de paja, para acabar antes y poder irse a jugar.
 
-El mediano construyó una casita de madera. Alvaro
+El mediano construyó una casita de madera.
+
+y el grande se hizo una mansion en las bahamas y asi nunca le pillaron.
+ Alvaro
 
 
 Esto es una historia de solo 5 lineas, pues las 5 lineas estoy escribiendo
 y aqui va un salto de linea :OOO pero no pasa nada, seguire con la historia
 sin que los saltos de linea tengan mucha importancia, pues tengo que hacer
+algo porque si no vamos a acabar mal, porque si no haces que vas a hacer?
 /*Comprate una lineas nuevas -Jose*/
 By Flopi.
 
