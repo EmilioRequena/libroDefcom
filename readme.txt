@@ -15,8 +15,7 @@ By Flopi.
 
 /* 2 lineas heliminadas porque no me gustan los monos */
 unico en su hespecie claramente, descubrio su parte aracnida y se puso a tirar
-telarañas por tos los laos, y claro, entre subir por las ramas, y las telarañas
-pos se lio... moraleja, no te lies mas que un mono araña, que es mucho liar.
+telarañas.
 Emilio
 
 
