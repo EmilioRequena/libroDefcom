@@ -11,3 +11,4 @@ Busco por internet turoriales a mansalva, Busco por internet tutoriales a mansa$
 hasta que un diaaa, hasta que un dia el pequeño flopi programo.
 Despues de usar git add, usa el commit y el Push. Despues de usar git add, usa $
 Hasta que el archivooo hasta que el archivoo hasta que el archivo se subioo!!!
+Fin!!
