@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 la introduccion, que pijo es la introduccion?
 
 /*Las "5 lineas" del libro de Alvaro*/
+=======
+la introduccion, que pijo es la introduccion?
+>>>>>>> heads/Emilio
